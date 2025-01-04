@@ -1,2 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&family=Roboto&display=swap');
+body {
+    font-family: Roboto, serif;
+    margin: 0;
+}
+
+.header ul  {
+   list-style: none;
+   padding: 0px; 
+}
+
+.header a {
+    text-decoration: none;
+}
 
