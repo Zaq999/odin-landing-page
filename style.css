@@ -96,3 +96,33 @@ body {
     width: 450px;
     background-color: grey;
 }
+
+.information p {
+    text-align: center;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+    margin-bottom: 40px;
+}
+
+.info-container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding-bottom: 50px;
+    min-height: min-content;
+}
+
+.info {
+    max-width: 250px;
+    display: block;
+}
+
+.image {
+    width: 205px;
+    height: 200px;
+    border: 4px solid blue;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
