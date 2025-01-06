@@ -4,6 +4,7 @@ body {
     font-family: Roboto, serif;
     min-height: 100vh;
     margin: 0;
+    border: 0;
     display: flex;
     flex-direction: column;  
 }
@@ -199,8 +200,8 @@ body {
     background-color: #1f2937;
     text-align: center;
     color: #e5e7eb;
-    padding-bottom: 0px;
-    position: absolute;
-    bottom: 0;
+    padding-bottom: o;
+    margin-top: auto;
     width: 100%;
+
 }
