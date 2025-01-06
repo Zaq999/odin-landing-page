@@ -7,7 +7,6 @@ Someday I will return to this project to add responsivnes because my landing pag
 and it annoyed me a bit.
 
 ## LINKS:
-
-    [Live preview here:](https://zaq999.github.io/odin-landing-page/)
+ [Live preview here](https://zaq999.github.io/odin-landing-page/)
 
 
