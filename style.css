@@ -64,9 +64,12 @@ body {
 }
 
 .hero.left {
+    display: flex;
     flex-direction: column;
+    justify-content: center;
     max-width: 50%;
     gap: 10px;
+    padding: 0;
 }
 
 .hero.text {
@@ -196,4 +199,8 @@ body {
     background-color: #1f2937;
     text-align: center;
     color: #e5e7eb;
+    padding-bottom: 0px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
